@@ -1,0 +1,488 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: SEOS Social\n"
+"POT-Creation-Date: 2020-10-26 01:45+0200\n"
+"PO-Revision-Date: 2020-10-26 01:46+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:11
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:13
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: attachment.php:31 single.php:28
+msgid " Previous"
+msgstr ""
+
+#: attachment.php:34 single.php:31
+msgid "Next "
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:39
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:45
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:47
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:49
+msgid "Powered by WordPress"
+msgstr ""
+
+#: footer.php:53
+msgid "All rights reserved"
+msgstr ""
+
+#: footer.php:54
+msgid "SEOS Social Theme by Seos Themes"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: functions.php:87
+msgid "Default Image 1"
+msgstr ""
+
+#: functions.php:112
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:114
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:122
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:131
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:140
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:149
+msgid "Footer 4"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: include/back-to-top-button.php:12
+msgid "Back To Top Button Options"
+msgstr ""
+
+#: include/back-to-top-button.php:22
+msgid "Activate Back To Top Button"
+msgstr ""
+
+#: include/back-to-top-button.php:38
+msgid "Button Color"
+msgstr ""
+
+#: include/back-to-top-button.php:49
+msgid "Button Hover Color"
+msgstr ""
+
+#: include/back-to-top-button.php:55
+msgid "Button Background Color"
+msgstr ""
+
+#: include/back-to-top-button.php:66
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: include/content-customizer.php:7 include/content-customizer.php:38
+msgid "One"
+msgstr ""
+
+#: include/content-customizer.php:8 include/content-customizer.php:39
+msgid "Two"
+msgstr ""
+
+#: include/content-customizer.php:22
+msgid "Content Options"
+msgstr ""
+
+#: include/content-customizer.php:33
+msgid "Homepage Post Columns"
+msgstr ""
+
+#: include/content-customizer.php:53
+msgid "Content max width"
+msgstr ""
+
+#: include/content-customizer.php:70
+msgid "Content Padding"
+msgstr ""
+
+#: include/content-customizer.php:84
+msgid "Hide sidebar and content on home page"
+msgstr ""
+
+#: include/customizer.php:33
+msgid "Background Color "
+msgstr ""
+
+#: include/customizer.php:50
+msgid "center center"
+msgstr ""
+
+#: include/customizer.php:51 include/customizer.php:160
+msgid "Real Size (Deactivate the image height.)"
+msgstr ""
+
+#: include/customizer.php:63 include/customizer.php:124
+msgid "Default"
+msgstr ""
+
+#: include/customizer.php:64 include/customizer.php:125
+msgid "All Pages"
+msgstr ""
+
+#: include/customizer.php:65 include/customizer.php:126
+msgid "Home Page"
+msgstr ""
+
+#: include/customizer.php:82
+msgid "Body Background Color"
+msgstr ""
+
+#: include/customizer.php:94
+msgid "Header Button 1 "
+msgstr ""
+
+#: include/customizer.php:95
+msgid "The button is activated after inserting text in the field"
+msgstr ""
+
+#: include/customizer.php:108
+msgid "Button 1 URL"
+msgstr ""
+
+#: include/customizer.php:118
+msgid "Activate Header Image"
+msgstr ""
+
+#: include/customizer.php:139
+msgid "Image Height"
+msgstr ""
+
+#: include/customizer.php:153
+msgid "Image Position"
+msgstr ""
+
+#: include/customizer.php:159
+msgid "Background Cover (center center)"
+msgstr ""
+
+#: include/customizer.php:171
+msgid "Dectivate Image Shadow:"
+msgstr ""
+
+#: include/header-top.php:18 include/header-top.php:21
+msgid "header image"
+msgstr ""
+
+#: include/header-top.php:85
+msgid "Menu"
+msgstr ""
+
+#: include/read-more-button.php:24
+msgid "Read More"
+msgstr ""
+
+#: include/recent-post-slider/slider.php:90
+#: include/recent-post-slider/slider.php:120
+msgid "Show All Posts"
+msgstr ""
+
+#: include/recent-post-slider/slider.php:91
+#: include/recent-post-slider/slider.php:121
+msgid "Show Only Sticky Posts"
+msgstr ""
+
+#: include/recent-post-slider/slider.php:105
+#: include/recent-post-slider/slider.php:115
+msgid "Recent Posts Slider"
+msgstr ""
+
+#: include/recent-post-slider/slider.php:131
+msgid "Activate on Homepage Header"
+msgstr ""
+
+#: include/recent-post-slider/slider.php:143
+msgid "Section Title"
+msgstr ""
+
+#: include/social.php:141
+msgid "Social Media"
+msgstr ""
+
+#: include/social.php:142
+msgid "Social media buttons"
+msgstr ""
+
+#: include/social.php:152
+msgid "Activate Social Icons in Header"
+msgstr ""
+
+#: include/social.php:164
+msgid "Enter Facebook url"
+msgstr ""
+
+#: include/social.php:175
+msgid "Enter Twitter url"
+msgstr ""
+
+#: include/social.php:186
+msgid "Enter Linkedin url"
+msgstr ""
+
+#: include/social.php:196
+msgid "Enter RSS url"
+msgstr ""
+
+#: include/social.php:207
+msgid "Enter Pinterest url"
+msgstr ""
+
+#: include/social.php:217
+msgid "Enter Youtube url"
+msgstr ""
+
+#: include/social.php:228
+msgid "Enter Vimeo url"
+msgstr ""
+
+#: include/social.php:238
+msgid "Enter Instagram url"
+msgstr ""
+
+#: include/social.php:248
+msgid "Enter Stumbleupon url"
+msgstr ""
+
+#: include/social.php:259
+msgid "Enter Flickr url"
+msgstr ""
+
+#: include/social.php:271
+msgid "Enter Dribbble url"
+msgstr ""
+
+#: include/social.php:281
+msgid "Enter Digg url"
+msgstr ""
+
+#: include/social.php:292
+msgid "Enter Skype url"
+msgstr ""
+
+#: include/social.php:303
+msgid "Enter Deviantart url"
+msgstr ""
+
+#: include/social.php:313
+msgid "Enter Yahoo url"
+msgstr ""
+
+#: include/social.php:323
+msgid "Enter Reddit Alien url"
+msgstr ""
+
+#: include/social.php:333
+msgid "Enter Paypal url"
+msgstr ""
+
+#: include/social.php:343
+msgid "Enter Dropbox url"
+msgstr ""
+
+#: include/social.php:353
+msgid "Enter Soundcloud url"
+msgstr ""
+
+#: include/social.php:363
+msgid "Enter VK url"
+msgstr ""
+
+#: include/social.php:373
+msgid "Enter Envelope url"
+msgstr ""
+
+#: include/social.php:383
+msgid "Enter Address Book url"
+msgstr ""
+
+#: include/social.php:393
+msgid "Enter Apple url"
+msgstr ""
+
+#: include/social.php:404
+msgid "Enter Amazon url"
+msgstr ""
+
+#: include/social.php:415
+msgid "Enter Slack url"
+msgstr ""
+
+#: include/social.php:425
+msgid "Enter Slideshare url"
+msgstr ""
+
+#: include/social.php:435
+msgid "Enter Wikipedia url"
+msgstr ""
+
+#: include/social.php:445
+msgid "Enter WordPress url"
+msgstr ""
+
+#: include/social.php:456
+msgid "Enter Odnoklassniki url"
+msgstr ""
+
+#: include/social.php:467
+msgid "Enter Tumblr url"
+msgstr ""
+
+#: include/social.php:478
+msgid "Enter GitHub url"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: include/template-tags.php:58
+msgid ", "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: include/template-tags.php:65
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: post title
+#: include/template-tags.php:78
+#, php-format
+msgid ""
+"<span class=\"dashicons dashicons-admin-comments\"></span> Leave a "
+"Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: include/template-tags.php:95 template-parts/content-page.php:41
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:28
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:48
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:28 template-parts/content.php:65
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:54
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "SEOS Social"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://seosthemes.com/seos-social-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SEOS Social is a Multipurpose and HTML5 WordPress Theme. Very fast and SEO "
+"friendly. Gutenberg Compatible, WooCommerce Compatible, Social Icons, Full "
+"Responsive, Content Options, Header Options, Back To Top Button, Microdata, "
+"Custom Colors. The theme is for any business. SEOS Social Theme can be used "
+"by bloggers, magazine, portfolio, photography, newspaper, E-Commerce, news "
+"and many more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "seosbg"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://seosthemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr ""

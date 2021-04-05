@@ -1,0 +1,24 @@
+*
+{
+    margin:0px;
+    padding: 0px;
+}
+body
+{
+    background-image:linear-gradient(#005AA7,#FFFDE4);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.header
+{
+    background-color: #f1f6f9;
+    
+}
+.abc p 
+{
+    color: black;
+}
+.abc h5
+{
+    color: black;
+}

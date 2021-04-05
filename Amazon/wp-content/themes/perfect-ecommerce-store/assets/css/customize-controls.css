@@ -1,0 +1,22 @@
+#customize-controls .control-section-perfect-ecommerce-store .accordion-section-title:hover,
+#customize-controls .control-section-perfect-ecommerce-store .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-perfect-ecommerce-store .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+
+.rtl .control-section-perfect-ecommerce-store .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+.control-section-perfect-ecommerce-store a {
+    border-radius: 0 !important;
+    background: #0d61cc !important;
+    color: #fff !important;
+    border: solid 1px #000 !important;
+    font-weight: 900 !important;
+}
